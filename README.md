@@ -2,7 +2,7 @@
 
 ## Spring Core Annotations
 * Dependency Injection
-    * @[Autowired](github.com/ivanlepi/annotations/core/src/main/java/dev/ivanlepi/autowired/AutoWiredService.java)
+    * @[Autowired](https://github.com/IvanLepi/potential-sniffle/blob/main/core/src/main/java/dev/ivanlepi/autowiring/Book.java)
     * @Bean
     * @Qualifier
     * @Required
